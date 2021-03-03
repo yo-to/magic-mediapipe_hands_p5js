@@ -2,7 +2,8 @@
 
 ## 概要
 
-![demo](https://github.com/yo-to/magic-mediapipe_hands_p5js/blob/main/demo.gif?raw=true)
+<img src="https://github.com/yo-to/magic-mediapipe_hands_p5js/blob/main/demo.gif?raw=true" width="389">
+
 
 ### ↓こちらから実際にお試しいただけます
 https://yo-to.github.io/magic-mediapipe_hands_p5js/
