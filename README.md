@@ -10,7 +10,7 @@ https://editor.p5js.org/toyota_ref/full/UDkQFedCD
 2） グーにした手をカメラにうつす  
 3） 指を一本ずつ開く ⇒ 開いた指先に炎がともる  
 
-### ↓こちらから実際にお試しいただけます、という完成版は急ぎ準備中
+### ↓完成版ができたら、こちらで公開予定
 https://yo-to.github.io/magic-mediapipe_hands_p5js/
 
 ### 利用している技術
