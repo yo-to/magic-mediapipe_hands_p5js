@@ -1,9 +1,12 @@
-# 某アニメの悪役が使う「とっておきの手品」っぽい呪文が使えた気になる（かもしれない）Webアプリ
+# 某アニメの悪役が使う「とっておきの手品」っぽい禁呪が使える（気がするかもしれない）Webアプリ V2
 
 ## 概要
 ![demo](https://github.com/yo-to/magic-mediapipe_hands_p5js/blob/main/demo.gif?raw=true)
 
-### ↓こちらから実際にお試しいただけます（★ 急ぎ、準備中）
+### ↓体験できるものを準備中（過去に書いたものを、大幅書きかえ＆リファクタリング中）で、とりあえず試せる段階のものをここに
+https://yo-to.github.io/magic-mediapipe_hands_p5js/
+
+### ↓こちらから実際にお試しいただけます、という完成版は急ぎ準備中
 https://yo-to.github.io/magic-mediapipe_hands_p5js/
 
 ### 利用している技術
