@@ -28,6 +28,8 @@ MediaPipe Hands は複数の手を同時に認識でき、また、p5.js は Web
 。。。（いくつか画像を入れる予定）
 
 ## その他の関連リンク
+●某アニメの悪役が使う「とっておきの手品」っぽい禁呪が使える（気がするかもしれない）Webアプリ V2 | ProtoPedia
+* [某アニメの悪役が使う「とっておきの手品」っぽい禁呪が使える（気がするかもしれない）Webアプリ V2 | ProtoPedia](https://protopedia.net/prototype/2734)
 * [ProtoPediaの作品登録： 某アニメの悪役が使う「とっておきの手品」っぽい呪文が使えた気になる（かもしれない）Webアプリ | ProtoPedia](https://protopedia.net/prototype/2147)
 * [YouTube動画： 某アニメの悪役が使う「とっておきの手品」っぽいことができるアプリ](https://www.youtube.com/watch?v=EkzZNFuWYNk)
 
