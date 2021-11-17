@@ -3,7 +3,7 @@
 ## 概要
 ![demo](https://github.com/yo-to/magic-mediapipe_hands_p5js/blob/main/demo.gif?raw=true)
 
-### ↓体験できるものを準備中（過去に書いたものを、大幅書きかえ＆リファクタリング中）で、とりあえず試せる段階のものをここに
+### ↓体験できるものを準備中（過去に書いたコードがあまりに適当すぎたものだったので、大幅に書きかえ中で、とりあえず試せる段階のものを公開もしつつ）
 https://editor.p5js.org/toyota_ref/full/UDkQFedCD  
 使い方は簡単！以下の通りです。  
 1） ページを開く  
