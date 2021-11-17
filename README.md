@@ -4,7 +4,7 @@
 ![demo](https://github.com/yo-to/magic-mediapipe_hands_p5js/blob/main/demo.gif?raw=true)
 
 ### ↓体験できるものを準備中（過去に書いたものを、大幅書きかえ＆リファクタリング中）で、とりあえず試せる段階のものをここに
-https://yo-to.github.io/magic-mediapipe_hands_p5js/
+https://editor.p5js.org/toyota_ref/full/UDkQFedCD
 
 ### ↓こちらから実際にお試しいただけます、という完成版は急ぎ準備中
 https://yo-to.github.io/magic-mediapipe_hands_p5js/
