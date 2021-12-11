@@ -25,9 +25,9 @@ Googleさんの [MediaPipe Hands](https://google.github.io/mediapipe/solutions/h
 MediaPipe Hands は複数の手を同時に認識でき、また、p5.js は WebGL による 3D の描画もできるものです。
 そのため、例えば以下のようなものも作成可能です（※ 以下は、YouTube動画へのリンク）。
 
-* [【両手を認識させる】 Googleさんの MediaPipe Hands を使った仕組みのテスト - YouTube](https://www.youtube.com/watch?v=vlZRC8iDqjE)
-* [両手の動きで音を奏でる（p5.js ＋ MediaPipe Hands ＋ Sonic Pi ＋ osc.js） - YouTube](https://www.youtube.com/watch?v=Xz7_Mq_DUNo)
-* [【両手を認識させる ＋ 3D描画】 p5.js ＋ MediaPipe Hands の組み合わせで WebGL による 3D表現を使ってみた - YouTube](https://www.youtube.com/watch?v=ehJeN8pFHeI)
+* [【両手の認識】 Googleさんの MediaPipe Hands を使った仕組みのテスト - YouTube](https://www.youtube.com/watch?v=vlZRC8iDqjE)
+* [【両手の認識】 両手の動きで音を奏でる（p5.js ＋ MediaPipe Hands ＋ Sonic Pi ＋ osc.js） - YouTube](https://www.youtube.com/watch?v=Xz7_Mq_DUNo)
+* [【両手の認識 ＋ 3D描画】 p5.js ＋ MediaPipe Hands の組み合わせで WebGL による 3D表現を使ってみた - YouTube](https://www.youtube.com/watch?v=ehJeN8pFHeI)
 
 ## その他の関連リンク
 ●某アニメの悪役が使う「とっておきの手品」っぽい禁呪が使える（気がするかもしれない）Webアプリ V2 | ProtoPedia
