@@ -3,14 +3,15 @@
 ## 概要
 ![demo](https://github.com/yo-to/magic-mediapipe_hands_p5js/blob/main/demo.gif?raw=true)
 
-### ↓体験できるものを用意しました！
-https://yo-to.github.io/magic-mediapipe_hands_p5js/
-
+### 使い方
 使い方は簡単！以下の通りです。  
 1） ページを開く  
 2） グーにした手をカメラにうつす（手を近づけすぎないほうが良いかも）  
 3） 指を一本ずつ開く ⇒ 開いた指先に炎がともる  
 4） 手をグーにして、「r キー」を押すと、表示がリセットされます
+
+### ↓体験できるものを用意しました！
+https://yo-to.github.io/magic-mediapipe_hands_p5js/
 
 ### 利用している技術
 
