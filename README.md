@@ -18,7 +18,7 @@ Googleさんの [MediaPipe Hands](https://google.github.io/mediapipe/solutions/h
 技術概要などの補足は以下の記事にて。
 
 * [Zennの関連記事： 某アニメの悪役が使う「とっておきの手品」っぽい呪文が使えた気になる（かもしれない）Webアプリを作った話【技術概要】](https://zenn.dev/youtoy/articles/8900adadd996caf643a5)
-* [某アニメの悪役が使う「とっておきの手品」っぽい禁呪が使える（気がするかもしれない）Webアプリ V2 | ProtoPedia](https://protopedia.net/prototype/2734)
+* [ProtoPediaへの登録： 某アニメの悪役が使う「とっておきの手品」っぽい禁呪が使える（気がするかもしれない）Webアプリ V2](https://protopedia.net/prototype/2734)
 
 ### MediaPipe Hands と p5.js を使った別の作品の例
 
